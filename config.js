@@ -6,9 +6,9 @@ module.exports = {
   FAMILLES: [
     { label: '👑 Helos Mythique', value: 'Helos Mhytique' },
     { label: '⚡ Fritz Mythique', value: 'Fritz Mhytique' },
-    { label: '🗡️ Ackerman Légendaire', value: 'Ackerman légendaire' },
-    { label: '🔥 Yeager Légendaire', value: 'Yeager légendaire' },
-    { label: '👁️ Reis Légendaire', value: 'Reis légendaire' },
+    { label: '🗡️ Ackerman Légendaire', value: 'Ackerman Légendaire' },
+    { label: '🔥 Yeager Légendaire', value: 'Yeager Légendaire' },
+    { label: '👁️ Reis Légendaire', value: 'Reis Légendaire' },
   ],
 
   PRESTIGES: [
